@@ -1,1 +1,0 @@
-# Xadrez-em-C
